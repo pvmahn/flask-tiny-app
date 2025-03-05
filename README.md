@@ -9,7 +9,7 @@
 #### Mô tả project
 ---
 
-Project này được tạo ra nhằm giúp cho các thành viên trong nhóm có cơ hội được học những kiến thức cơ bản về lập trình web để từ đó, áp dụng những gì đã được học vào việc làm project này.
+Project này được tạo ra nhằm giúp cho các thành viên trong nhóm có cơ hội được học những kiến thức cơ bản về lập trình web , để từ đó áp dụng những gì đã được học vào việc làm project này.
 
 Project này mang tên là Flask-tiny-app, đây là 1 project "tiny" - đúng như cái tên. Cụ thể, project này tập trung vào việc tạo ra 1 blog cá nhân đơn giản (lấy cảm hứng từ các mạng xã hội hiện nay). Trên nền tảng này, mọi người có thể tạo ra và chỉnh sửa bài viết của mình, cũng như có thể xem được bài viết của những người khác.
 
