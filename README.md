@@ -3,12 +3,12 @@
 
 ---
 
-#### Danh sách thành viên
+### Danh sách thành viên
 
 1. Phạm Gia Kiệt - 22662391
 2. Phạm Văn Mạnh - 22642071
 
-#### Mô tả project
+## Mô tả project
 
 Project này được tạo ra nhằm giúp cho các thành viên trong nhóm có cơ hội được học những kiến thức cơ bản về lập trình web , để từ đó áp dụng những gì đã được học vào việc làm project này.
 
@@ -20,7 +20,7 @@ Các công nghệ được sử dụng trong project này:
     - Frontend: HTML, CSS, Bootstrap, Handlebars (template view engine)
     - Backend: ExpressJS, MongoDB
 
-#### Cách cài đặt 
+## Cách cài đặt 
 
 1.Vào github repository: https://github.com/pgkiet27/flask_tiny_app.git
 
