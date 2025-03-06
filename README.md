@@ -36,6 +36,6 @@ Các công nghệ được sử dụng trong project này:
 8. Truy cập vào `localhost:5000` để xem giao diện trang web
 
 
-#### Triển khai:
+## Triển khai:
 
 Bên cạnh đó, nhóm còn deploy project này lên Github Pages, mọi người có thể ấn vào đường link dưới đây:
