@@ -1,7 +1,4 @@
-# flask-tiny-app
-## Project: Flask-tiny-app
-
----
+# Project: Flask-tiny-app
 
 ### Danh sách thành viên
 
