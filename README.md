@@ -1,13 +1,14 @@
 # flask-tiny-app
 ## Project: Flask-tiny-app
 
-#### Danh sách thành viên
 ---
+
+#### Danh sách thành viên
+
 1. Phạm Gia Kiệt - 22662391
 2. Phạm Văn Mạnh - 22642071
 
 #### Mô tả project
----
 
 Project này được tạo ra nhằm giúp cho các thành viên trong nhóm có cơ hội được học những kiến thức cơ bản về lập trình web , để từ đó áp dụng những gì đã được học vào việc làm project này.
 
@@ -20,8 +21,6 @@ Các công nghệ được sử dụng trong project này:
     - Backend: ExpressJS, MongoDB
 
 #### Cách cài đặt 
----
-
 
 1.Vào github repository: https://github.com/pgkiet27/flask_tiny_app.git
 
@@ -40,6 +39,6 @@ Các công nghệ được sử dụng trong project này:
 8. Truy cập vào `localhost:5000` để xem giao diện trang web
 
 
-#### Xem giao diện web trên Github
+#### Triển khai:
 
 Bên cạnh đó, nhóm còn deploy project này lên Github Pages, mọi người có thể ấn vào đường link dưới đây:
